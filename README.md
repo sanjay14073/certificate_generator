@@ -59,10 +59,10 @@ This Python project generates personalized certificates from a template image us
 ## Dependencies
 
 The project requires the following Python libraries:
-- pandas
-- Pillow
+- `pandas`
+- `Pillow`
 
-These are listed in the requirements.txt file.
+These are listed in the `requirements.txt` file.
 
 ## License
 
