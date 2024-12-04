@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python dependencies
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Pillow cache
+*.pyc
+*.pyo
+*.pyd
+
+# Pandas cache and analysis
+*.csv~
+
+Lib
+Scripts
+pyvenv.cfg
